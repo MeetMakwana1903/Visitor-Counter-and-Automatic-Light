@@ -14,7 +14,5 @@
 3.  Connect power supply and enjoy.
 
 ## Work:
-  When person is going inside the room then IR sensor will give signal to Arduino Nano/UNO and it will increace counter by +1.
-  When counter value is greater then 0 it will automatically turn on light.\
-  When person is leaving the room then IR sensor will gove signal to the Arduino Nano/UNO and it will decrease counter by -1.
-  When counter value is reached zero then light will turn off automatically.
+  1.  When person is going inside the room then IR sensor will give signal to Arduino Nano/UNO and it will increace counter by +1.When counter value is greater then 0 it will automatically turn on light.
+  2.  When person is leaving the room then IR sensor will gove signal to the Arduino Nano/UNO and it will decrease counter by -1.When counter value is reached zero then light will turn off automatically.
